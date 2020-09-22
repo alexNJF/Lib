@@ -1,0 +1,4 @@
+C:\Users\Ooosa\Desktop\Code\library\EshraghLibrary\Entities\bin\Debug\netcoreapp3.1\Common.dll
+C:\Users\Ooosa\Desktop\Code\library\EshraghLibrary\Entities\obj\Debug\netcoreapp3.1\Entities.csprojAssemblyReference.cache
+C:\Users\Ooosa\Desktop\Code\library\EshraghLibrary\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfoInputs.cache
+C:\Users\Ooosa\Desktop\Code\library\EshraghLibrary\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfo.cs
