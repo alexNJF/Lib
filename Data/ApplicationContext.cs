@@ -1,8 +1,14 @@
-﻿using System;
+﻿using Microsoft.EntityFrameworkCore;
+using System;
 
 namespace Data
 {
-    public class ApplicationContext
+    public class ApplicationContext:DbContext
     {
+        public ApplicationContext()
+            : base()
+        {
+            
+        }
     }
 }
