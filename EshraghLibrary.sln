@@ -12,6 +12,11 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "Data\Data.csproj", "{8623B78A-F96E-413C-ADE8-18DCE292D982}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Services", "Services\Services.csproj", "{E3D1F6FD-550D-4A88-8AFF-7CDFF3CF630A}"
+
+
+rtyoireoiyeoij
+eltjeith
+
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebFramework", "WebFramework\WebFramework.csproj", "{38AA88AA-A492-41EC-9874-B6166C6EFEB9}"
 EndProject
